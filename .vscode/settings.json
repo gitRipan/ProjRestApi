@@ -1,0 +1,5 @@
+{
+    "python.linting.pylintPath": "${workspace}/venv/Scripts/pylint.exe",
+    "python.linting.pylintEnabled": true,
+    "python.linting.enabled": true
+}
